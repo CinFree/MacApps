@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/MelissaShu/Mac_Apps/Test/MSTest003.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://imglf5.nosdn.127.net/img/blFtbWVBVFB6b09JcE9GRlBCaXRwUEZCdklIU09HMUgzSHJYNFlPNUIrb1JlVWR0R0JWOFZBPT0.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://imglf5.nosdn.127.net/img/blFtbWVBVFB6b09JcE9GRlBCaXRwUEZCdklIU09HMUgzSHJYNFlPNUIrb1JlVWR0R0JWOFZBPT0.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.netease.MSTest003</string>
+				<key>bundle-version</key>
+				<string>1.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Test003</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
